@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "role": "Software Engineering Intern",
+    "organisation": "Techplement",
+    "startDate": "August, 2024",
+    "endDate": "September, 2024",
+    "location": "Remote",
+    "experiences": [
+      "Developed a React.js and JavaScript-based event management system to streamline attendee registration and scheduling.",
+      "Designed an intuitive UI with Tailwind CSS, improving user engagement by 30%.",
+      "Integrated APIs for real-time event updates, reducing load time by 40%."
+    ],
+    "imageSrc": "company/google.png"
+  },
+  {
+    "id": 2,
+    "role": "Software Engineering Intern",
+    "organisation": "Eduanalytix Private Limited",
+    "startDate": "May, 2023",
+    "endDate": "May, 2024",
+    "location": "Remote",
+    "experiences": [
+      "Built a full-stack e-commerce solution, focusing on a dynamic React.js frontend with Redux state management.",
+      "Designed and developed a mobile-responsive UI, increasing mobile user retention by 20%.",
+      "Integrated secure authentication (JWT) and payment gateways, ensuring a 99.9% transaction success rate."
+    ],
+    "imageSrc": "company/eduanalytix.png"
+  }
+]

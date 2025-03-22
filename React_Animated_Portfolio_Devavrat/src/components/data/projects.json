@@ -1,0 +1,90 @@
+[
+  {
+    "key": 1,
+    "title": "Event Management System",
+    "imageSrc": "https://images.pexels.com/photos/2672979/pexels-photo-2672979.jpeg",
+    "description": "A React.js-based event management system to streamline attendee registration and scheduling.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com/event-management-system"
+  },
+  {
+    "key": 2,
+    "title": "E-Commerce Website",
+    "imageSrc": "https://cdn.pixabay.com/photo/2017/05/02/15/30/streets-2278471_640.jpg",
+    "description": "A full-stack e-commerce platform with secure authentication and payment gateways.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com/ecommerce-platform"
+  },
+  {
+    "key": 3,
+    "title": "Portfolio Website",
+    "imageSrc": "https://cdn.pixabay.com/photo/2016/08/16/17/12/skyscrapers-1598418_640.jpg",
+    "description": "A personal portfolio website showcasing skills, projects, and experience.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com/personal-portfolio"
+  },
+  {
+    "key": 4,
+    "title": "YouTube Clone",
+    "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
+    "description": "A MERN stack-based YouTube clone with video streaming and user authentication.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com/youtube-clone-mern"
+  },
+  {
+    "key": 5,
+    "title": "Pexels Clone (Photo Sharing)",
+    "imageSrc": "https://cdn.pixabay.com/photo/2020/03/22/19/02/photo-sharing-4957615_640.jpg",
+    "description": "A photo-sharing platform similar to Pexels, built with React and Firebase.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com/pexels-clone"
+  },
+  {
+    "key": 6,
+    "title": "React Animated Portfolio",
+    "imageSrc": "https://cdn.pixabay.com/photo/2018/01/18/07/31/web-3099108_640.jpg",
+    "description": "An animated portfolio website with modern UI/UX and smooth transitions.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com/animated-portfolio-react"
+  },
+  {
+    "key": 7,
+    "title": "E-Commerce II (Advanced Features)",
+    "imageSrc": "https://cdn.pixabay.com/photo/2019/06/06/00/41/ecommerce-4256469_640.jpg",
+    "description": "An advanced e-commerce application with additional features like analytics and recommendations.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com/ecommerce-advanced"
+  },
+  {
+    "key": 8,
+    "title": "React UI Project (Reusable Components)",
+    "imageSrc": "https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_640.jpg",
+    "description": "A project showcasing reusable UI components built with React.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com/react-ui-components"
+  },
+  {
+    "key": 9,
+    "title": "React Recipe App",
+    "imageSrc": "https://cdn.pixabay.com/photo/2017/09/15/11/45/recipe-2757245_640.jpg",
+    "description": "A recipe app built with React, featuring ingredient filtering and search functionality.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com/recipe-app-react"
+  },
+  {
+    "key": 10,
+    "title": "React Shopping Cart",
+    "imageSrc": "https://cdn.pixabay.com/photo/2016/10/09/19/19/shopping-cart-1729540_640.jpg",
+    "description": "A React-based shopping cart with state management and real-time updates.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com/shopping-cart-react"
+  },
+  {
+    "key": 11,
+    "title": "Online Education Website",
+    "imageSrc": "https://cdn.pixabay.com/photo/2016/08/26/15/06/education-1622497_640.jpg",
+    "description": "An online education platform with courses, authentication, and progress tracking.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com/online-education"
+  }
+]

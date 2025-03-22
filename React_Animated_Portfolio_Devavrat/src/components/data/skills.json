@@ -1,0 +1,118 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS3",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "Bootstrap",
+    "imageSrc": "skills/bootstrap.png"
+  },
+  {
+    "title": "Tailwind CSS",
+    "imageSrc": "skills/tailwind.png"
+  },
+  {
+    "title": "React.js",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Responsive Design",
+    "imageSrc": "skills/responsive.png"
+  },
+  {
+    "title": "Flexbox",
+    "imageSrc": "skills/flexbox.png"
+  },
+  {
+    "title": "Grid",
+    "imageSrc": "skills/grid.png"
+  },
+  {
+    "title": "Animations",
+    "imageSrc": "skills/animations.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "REST APIs",
+    "imageSrc": "skills/restapi.png"
+  },
+  {
+    "title": "CI/CD Pipelines",
+    "imageSrc": "skills/cicd.png"
+  },
+  {
+    "title": "Jenkins for Automation",
+    "imageSrc": "skills/jenkins.png"
+  },
+  {
+    "title": "Scrum",
+    "imageSrc": "skills/scrum.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "OWASP Security Principles",
+    "imageSrc": "skills/owasp.png"
+  },
+  {
+    "title": "PostgreSQL",
+    "imageSrc": "skills/postgresql.png"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/docker.png"
+  },
+  {
+    "title": "Kubernetes",
+    "imageSrc": "skills/kubernetes.png"
+  },
+  {
+    "title": "AWS",
+    "imageSrc": "skills/aws.png"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/git.png"
+  },
+  {
+    "title": "GitHub",
+    "imageSrc": "skills/github.png"
+  },
+  {
+    "title": "GitLab",
+    "imageSrc": "skills/gitlab.png"
+  },
+  {
+    "title": "Jira",
+    "imageSrc": "skills/jira.png"
+  },
+  {
+    "title": "Agile Development",
+    "imageSrc": "skills/agile.png"
+  },
+  {
+    "title": "SDLC",
+    "imageSrc": "skills/sdlc.png"
+  },
+  {
+    "title": "OOP",
+    "imageSrc": "skills/oop.png"
+  },
+  {
+    "title": "API Integration",
+    "imageSrc": "skills/api.png"
+  }
+]
